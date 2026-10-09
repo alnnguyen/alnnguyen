@@ -16,7 +16,8 @@
 
 ### 🚀 Featured & Current Projects
 
-
+- 🚨 **D/SPATCH (BeaverHacks 2nd Place - Social Impact):** Real-time emergency dispatch dashboard integrating WebRTC video streams, Deepgram live speech-to-text, and multimodal AI analysis.
+- 👁️ **ComboCraft & ER-Overwatch (QuackHacks 1st Place Overall):** Real-time computer vision and motion tracking applications built with OpenCV, MediaPipe, scikit-learn, and FastAPI.
 - 🖥️ **FPGA Video Driver:** SystemVerilog VGA controller and PWM audio synthesizer.
 - 🤖 **Computer Vision:** Real-time gesture detection and multi-modal dispatch dashboards.
 
@@ -25,7 +26,7 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=alnnguyen&show_icons=true&theme=tokyonight&hide_border=true" alt="Alan's GitHub Stats" />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alnnguyen&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
