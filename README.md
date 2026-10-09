@@ -16,9 +16,9 @@
 
 ### 🚀 Featured & Current Projects
 
-- ⚡ **Bare-Metal Bootloader:** Custom STM32 bootloader in C with memory remapping and UART flashing.
+
 - 🖥️ **FPGA Video Driver:** SystemVerilog VGA controller and PWM audio synthesizer.
-- 🤖 **Computer Vision & RAG:** Real-time gesture detection and multi-modal dispatch dashboards.
+- 🤖 **Computer Vision:** Real-time gesture detection and multi-modal dispatch dashboards.
 
 ---
 
