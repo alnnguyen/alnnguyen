@@ -18,17 +18,15 @@
 
 - 🌡️ **STM32 Environmental Monitor:** Embedded C firmware on an STM32 ARM Cortex-M microcontroller interfacing with environmental sensors over I2C/SPI/UART for real-time telemetry and data logging.
 - 🖥️ **FPGA Video Driver:** Custom SystemVerilog VGA controller with hardware timing generation, FSM graphics, and a synthesized PWM audio circuit.
-- 🚨 **D/SPATCH (BeaverHacks 2nd Place - Social Impact):** Real-time emergency dispatch dashboard integrating WebRTC video streams, Deepgram live speech-to-text, and multimodal AI analysis.
-- 👁️ **ER-Overwatch & ComboCraft (QuackHacks 1st Place Overall):** Real-time computer vision and motion-tracking pipelines built with OpenCV, MediaPipe, FastAPI, and WebSockets.
+- 🛰️ **KO Orbit (University of Washington DubHacks 2027 - SpaceXAI Track Winner):** AI-powered orbital tracking, trajectory visualization, and real-time space telemetry platform.
+- 🚨 **D/SPATCH (Oregon State University BeaverHacks 26' 2nd Place - Social Impact):** Real-time emergency dispatch dashboard integrating WebRTC video streams, Deepgram live speech-to-text, and multimodal AI analysis.
+- 👁️ **ER-Overwatch & ComboCraft (QuackHacks 2.0/3.0 1st Place Overall):** Real-time computer vision and motion-tracking pipelines built with OpenCV, MediaPipe, FastAPI, and WebSockets.
 
 ---
 
-### 📌 Pinned Highlight & GitHub Stats
+### 📊 GitHub Stats
 
 <p align="left">
-  <a href="https://github.com/alnnguyen/stm32-environmental-monitor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alnnguyen&repo=stm32-environmental-monitor&theme=tokyonight&hide_border=true" alt="STM32 Environmental Monitor Repo Pin" />
-  </a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alnnguyen&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
