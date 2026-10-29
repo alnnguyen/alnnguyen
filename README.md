@@ -16,7 +16,7 @@
 
 ### 🚀 Featured & Current Projects
 
-- 🌡️ **STM32 Environmental Monitor:** Bare-metal/embedded C firmware on an STM32 ARM Cortex-M microcontroller interfacing with environmental sensors over I2C/SPI/UART for real-time telemetry and data logging.
+- 🌡️ **STM32 Environmental Monitor:** Embedded C firmware on an STM32 ARM Cortex-M microcontroller interfacing with environmental sensors over I2C/SPI/UART for real-time telemetry and data logging.
 - 🖥️ **FPGA Video Driver:** Custom SystemVerilog VGA controller with hardware timing generation, FSM graphics, and a synthesized PWM audio circuit.
 - 🚨 **D/SPATCH (BeaverHacks 2nd Place - Social Impact):** Real-time emergency dispatch dashboard integrating WebRTC video streams, Deepgram live speech-to-text, and multimodal AI analysis.
 - 👁️ **ER-Overwatch & ComboCraft (QuackHacks 1st Place Overall):** Real-time computer vision and motion-tracking pipelines built with OpenCV, MediaPipe, FastAPI, and WebSockets.
