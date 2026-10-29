@@ -16,17 +16,19 @@
 
 ### 🚀 Featured & Current Projects
 
+- 🌡️ **STM32 Environmental Monitor:** Bare-metal/embedded C firmware on an STM32 ARM Cortex-M microcontroller interfacing with environmental sensors over I2C/SPI/UART for real-time telemetry and data logging.
+- 🖥️ **FPGA Video Driver:** Custom SystemVerilog VGA controller with hardware timing generation, FSM graphics, and a synthesized PWM audio circuit.
 - 🚨 **D/SPATCH (BeaverHacks 2nd Place - Social Impact):** Real-time emergency dispatch dashboard integrating WebRTC video streams, Deepgram live speech-to-text, and multimodal AI analysis.
-- 👁️ **ComboCraft & ER-Overwatch (QuackHacks 1st Place Overall):** Real-time computer vision and motion tracking applications built with OpenCV, MediaPipe, scikit-learn, and FastAPI.
-- 🖥️ **FPGA Video Driver:** SystemVerilog VGA controller and PWM audio synthesizer.
-- 🤖 **Computer Vision:** Real-time gesture detection and multi-modal dispatch dashboards.
+- 👁️ **ER-Overwatch & ComboCraft (QuackHacks 1st Place Overall):** Real-time computer vision and motion-tracking pipelines built with OpenCV, MediaPipe, FastAPI, and WebSockets.
 
 ---
 
-### 📊 GitHub Stats
+### 📌 Pinned Highlight & GitHub Stats
 
 <p align="left">
-
+  <a href="https://github.com/alnnguyen/stm32-environmental-monitor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alnnguyen&repo=stm32-environmental-monitor&theme=tokyonight&hide_border=true" alt="STM32 Environmental Monitor Repo Pin" />
+  </a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alnnguyen&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
@@ -34,5 +36,5 @@
 
 ### 📬 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-nguyen28/)
 [![Website](https://img.shields.io/badge/Portfolio-2563EB?style=flat-square&logo=google-chrome&logoColor=white)](https://github.com/alnnguyen)
